@@ -1,0 +1,29 @@
+{
+  "name": "autocomplt",
+  "main": "autocomplt.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/maxvipon/autocomplt",
+  "authors": [
+    "Fischer-L",
+    "Maxim Ponomarev <maxvipon@gmail.com>"
+  ],
+  "description": "Lightweight and simple to use autocomplete lib with no dependencies",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "autocomplete",
+    "lightweight",
+    "nojquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
