@@ -2,19 +2,17 @@
 
 ## What is autocomplt?
 
-The autocomplt is written in Javascript and lightweight and simple to use. It auto-generates the autocomplete list when user inputs some text in the &lt;input&gt; element.
-
-Try it here at [jsfiddle](http://jsfiddle.net/Fischer/eTw62/)
-
-## No need of any extra lib/framework
+The autocomplt is written in Javascript and lightweight and simple to use. It auto-generates the autocomplete list when user inputs some text in the `<input>` element.
 
 The autocomplt has no dependencies on other libs or frameworks.
+
+Try it here at [jsfiddle](http://jsfiddle.net/Fischer/eTw62/).
 
 ## How to use
 
 ### Load the script
 
-Load the autocomplt js script into your document. After loading, there would be one global object called autocomplt. Use that global autocomplt object to enable the autocomplete feature on the desired &lt;input&gt; element.
+Load the autocomplt js script into your document. After loading, there would be one global object called `autocomplt`. Use that global `autocomplt` object to enable the autocomplete feature on the desired `<input>` element.
 
 ### Example
 
